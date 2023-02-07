@@ -1,0 +1,51 @@
+*{
+ margin: 0;
+ text-align: center;
+}
+
+/* HEADER SECTION */
+
+
+
+
+
+
+
+
+
+/* PHOTOGRAPGY SECTION */
+.photography{
+ position: relative;
+ background-color: #fff;
+ text-align: center;
+}
+
+.photo{
+ position: relative;
+ bottom: 90px;
+ left: ;
+}
+/* img{
+ width: 70%;
+ height: 100%;
+} */
+
+/* TESTIMONIALS */
+#testimonials{
+ text-align: center;
+ padding: 7% 15%;
+}
+.devs{
+ border-radius: 100%;
+}
+
+
+/* FOOTER */
+ul li{
+ display: inline;
+}
+li{
+ padding: 3% 7%;
+ text-decoration: none;
+ t
+}
